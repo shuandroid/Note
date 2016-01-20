@@ -6,6 +6,8 @@
 
 1. 图片的压缩  
     网站推荐TinyPNG  
+    [Tiny PNG](https://tinypng.com/)  
+
 
 2. 多利用xml画图形  
 
