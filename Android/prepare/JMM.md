@@ -1,7 +1,7 @@
 # java 的内存模型  
 java memory model    
 
-> ![详情链接](http://ifeve.com/java-memory-model-0/)
+> [详情链接](http://ifeve.com/java-memory-model-0/)
 
 高速缓存解决了处理器与内存的速度矛盾，但是引入了一个新的问题：缓存一致性(Cache coherence).  
 
